@@ -1,0 +1,30 @@
+31-03-2024:21:51:45 INFO     [_internal.py:96] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+31-03-2024:21:51:45 INFO     [_internal.py:96] [33mPress CTRL+C to quit[0m
+31-03-2024:21:51:45 INFO     [_internal.py:96]  * Restarting with stat
+31-03-2024:21:57:55 INFO     [app.py:51] file loading took 0:00:00.010098 to run
+31-03-2024:21:57:55 INFO     [_internal.py:96] 127.0.0.1 - - [31/Mar/2024 21:57:55] "GET / HTTP/1.1" 200 -
+31-03-2024:21:57:56 INFO     [_internal.py:96] 127.0.0.1 - - [31/Mar/2024 21:57:56] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+31-03-2024:21:58:11 INFO     [_internal.py:96] 127.0.0.1 - - [31/Mar/2024 21:58:11] "POST /load HTTP/1.1" 200 -
+31-03-2024:22:03:24 INFO     [_internal.py:96] 127.0.0.1 - - [31/Mar/2024 22:03:24] "GET /add_trades HTTP/1.1" 200 -
+31-03-2024:22:03:34 INFO     [_internal.py:96] 127.0.0.1 - - [31/Mar/2024 22:03:34] "POST /load HTTP/1.1" 200 -
+31-03-2024:22:04:27 INFO     [_internal.py:96] 127.0.0.1 - - [31/Mar/2024 22:04:27] "GET /view_trades HTTP/1.1" 200 -
+31-03-2024:22:38:57 INFO     [_internal.py:96] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+31-03-2024:22:38:57 INFO     [_internal.py:96] [33mPress CTRL+C to quit[0m
+31-03-2024:22:38:57 INFO     [_internal.py:96]  * Restarting with stat
+31-03-2024:22:39:04 INFO     [app.py:51] file loading took 0:00:00.011047 to run
+31-03-2024:22:39:04 INFO     [_internal.py:96] 127.0.0.1 - - [31/Mar/2024 22:39:04] "GET / HTTP/1.1" 200 -
+31-03-2024:23:15:51 INFO     [_internal.py:96] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+31-03-2024:23:15:51 INFO     [_internal.py:96] [33mPress CTRL+C to quit[0m
+31-03-2024:23:15:51 INFO     [_internal.py:96]  * Restarting with stat
+31-03-2024:23:15:59 INFO     [app.py:51] file loading took 0:00:00.001488 to run
+31-03-2024:23:15:59 INFO     [_internal.py:96] 127.0.0.1 - - [31/Mar/2024 23:15:59] "GET / HTTP/1.1" 200 -
+31-03-2024:23:15:59 INFO     [_internal.py:96] 127.0.0.1 - - [31/Mar/2024 23:15:59] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+31-03-2024:23:23:28 INFO     [_internal.py:96] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+31-03-2024:23:23:28 INFO     [_internal.py:96] [33mPress CTRL+C to quit[0m
+31-03-2024:23:23:28 INFO     [_internal.py:96]  * Restarting with stat
+31-03-2024:23:23:36 INFO     [app.py:51] file loading took 0:00:00.005999 to run
+31-03-2024:23:23:36 INFO     [_internal.py:96] 127.0.0.1 - - [31/Mar/2024 23:23:36] "GET / HTTP/1.1" 200 -
